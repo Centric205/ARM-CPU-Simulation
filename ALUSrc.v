@@ -19,9 +19,9 @@
 //
 //////////////////////////////////////////////////////////////////////////////////
 module ALUSrc(PR2,ALUSrc_Out);
-	 input [499:0] PR2;
-	 wire [63:0] Data2_3;
-	 wire [63:0] SEout3;
+    input [499:0] PR2;
+    wire [63:0] Data2_3;
+    wire [63:0] SEout3;
     reg [63:0] In0;
     reg [63:0] In1;
     wire ALUSrc3;
