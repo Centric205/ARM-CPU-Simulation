@@ -2,4 +2,4 @@
 Simulation of multi-stage, multi-instruction data path pipelines based on ARM LEG V8 CPU Architecture based on the following scheme:
 
 
-![alt text](https://image.ibb.co/iBSb1y/DataPath.png)
+![Pipelined Data Path](https://image.ibb.co/b8xwjJ/DataPath.jpg)
