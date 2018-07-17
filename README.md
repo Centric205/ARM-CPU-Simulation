@@ -3,3 +3,5 @@ Simulation of multi-stage, multi-instruction data path pipelines based on ARM LE
 
 
 ![Pipelined Data Path](https://image.ibb.co/b8xwjJ/DataPath.jpg)
+
+Image Source: Computer Organization And Design, ARM Edition by David A. Patterson and John L. Hennessy
