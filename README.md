@@ -7,4 +7,4 @@ Simulation of multi-stage, multi-instruction data path pipelines based on ARM LE
 
 
 
-Image Source: Computer Organization And Design-The Hardware/Software Interface, ARM Edition by David A. Patterson and John L. Hennessy
+Image Source: Computer Organization And Design: The Hardware/Software Interface, ARM Edition by David A. Patterson and John L. Hennessy
